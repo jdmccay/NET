@@ -1,0 +1,24 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: "Galatia SIL";
+  src: url(OEBPS/GalSILR.ttf);
+}
+@font-face {
+  font-family: "Ezra SIL";
+  src: url(OEBPS/SILEOT.ttf);
+}
+@font-face {
+  font-family: "Charis SIL";
+  src: url(OEBPS/CharisSILI.ttf);
+}
+@font-face {
+  font-family: "Galaxie Gothic";
+  src: url(OEBPS/GalaxieGothic.ttf);
+}
+@font-face {
+  font-family: "Greek Uncials";
+  src: url(OEBPS/Uncials.ttf);
+}
