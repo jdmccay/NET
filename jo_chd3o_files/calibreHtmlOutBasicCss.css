@@ -2,7 +2,7 @@ body{
   margin:0px;
   padding: 0.5em;
   background-color:#F6F3E9;
-  font-size:12px;
+  font-size:large;
   font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -23,7 +23,7 @@ body{
 }
 
 .calibreEbookContent{
-  padding:20px;
+  padding:0px;
 }
 
 .calibreEbNav, .calibreEbNavTop{
@@ -55,6 +55,6 @@ body{
   padding:10px;
 }
 .calibreEbookContent{
-  width:600px;
+  width:100%;
   float:left;
 }
