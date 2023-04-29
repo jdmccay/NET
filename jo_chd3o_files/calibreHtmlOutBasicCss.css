@@ -10,9 +10,30 @@ body{
 .calibreToc{
   float:left;
   margin:20px;
-  width:100%;
+  width:95%;
   background-color:#e6e6ff;
   color:white;
-  padding:10px;
+  
 
+}
+
+.calibreEbookContent{
+  width:100%;
+  float:left;
+}
+
+.calibreMeta{
+  background-color:#39322B;
+  color:white;
+  padding:10px;
+}
+
+.calibreMeta a, .calibreEbNav a, .calibreEbNavTop a, .calibreToc a{
+  color:black;
+}
+
+.calibreMeta h1{
+  margin:0px;
+  font-size:18px;
+  background-color:#39322B;
 }
