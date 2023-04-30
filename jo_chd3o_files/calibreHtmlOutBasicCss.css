@@ -1,7 +1,7 @@
 body{
   margin:0px;
-  padding: 0.5em;
-  background-color:#F6F3E9;
+  padding: 1em;
+  background-color:#ffffff;
   font-size:3em;
   font-family:Arial, Helvetica, sans-serif;
   width:device-width;
@@ -11,11 +11,12 @@ border-radius: 25px;
 
 .calibreToc{
   float:left;
-  margin:20px;
+  margin:30px;
   width:95%;
   background-color:#e6e6ff;
   color:white;
   border-radius: 25px;
+
 
 }
 
@@ -63,10 +64,12 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+border-radius: 25px;
+margin:2px;
 }
 
 a:hover, a:active {
-  background-color: red;
+  background-color: blue;
 }
 
 .calibre {
