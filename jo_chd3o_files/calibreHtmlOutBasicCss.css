@@ -259,13 +259,13 @@ right: 10px;
 font-size: .75em;
 
 }
-@font-face {
+font-face {
     font-family: 'BloggerSans';
-    src: url('./blogger-sans/BloggerSans.eot'); /* IE9 Compat Modes */
-    src: url('./blogger-sans/BloggerSans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('./blogger-sans/BloggerSans.woff') format('woff'), /* Modern Browsers */
-         url('./blogger-sans/BloggerSans.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('./blogger-sans/BloggerSans.svg#BloggerSans') format('svg'); /* Legacy iOS */
+    src: url('https://jdmccay.github.io/NET/jo_chd3o_files/blogger-sans/BloggerSans.eot'); /* IE9 Compat Modes */
+    src: url('https://jdmccay.github.io/NET/jo_chd3o_files/blogger-sans/BloggerSans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://jdmccay.github.io/NET/jo_chd3o_files/blogger-sans/BloggerSans.woff') format('woff'), /* Modern Browsers */
+         url('https://jdmccay.github.io/NET/jo_chd3o_files/blogger-sans/BloggerSans.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('https://jdmccay.github.io/NET/jo_chd3o_files/blogger-sans/BloggerSans.svg#BloggerSans') format('svg'); /* Legacy iOS */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
