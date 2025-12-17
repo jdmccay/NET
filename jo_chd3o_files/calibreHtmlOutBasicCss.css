@@ -22,6 +22,8 @@ border-radius: 25px;
 
 
 .calibreToc{
+  display: none;
+  visibility: hidden;
   float:left;
   margin:30px;
   width:95%;
